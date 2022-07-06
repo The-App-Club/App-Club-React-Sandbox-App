@@ -1,0 +1,9 @@
+.gitkeep
+yarn.lock
+.next
+.eslintignore
+.gitignore
+.prettierignore
+.stylelintignore
+robots.txt
+*ico

@@ -1,0 +1,3 @@
+- https://stackoverflow.com/questions/59990636/react-login-with-usecontext-usereducer-basic-example?noredirect=1&lq=1
+- https://github.com/nero2009/login-auth-useContext
+- https://soshace.com/react-user-login-authentication-using-usecontext-and-usereducer/
